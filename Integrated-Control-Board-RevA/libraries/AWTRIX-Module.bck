@@ -1,0 +1,43 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1000uF
+D Polarized capacitor, US symbol
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP 100nF
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP 1K
+D Resistor
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP LDR_GL5528
+D Photoresistor
+K resistor variable light sensitive opto LDR
+F ~
+$ENDCMP
+#
+$CMP Serial_Connection
+D Serial connection with Raspberry Pi
+$ENDCMP
+#
+$CMP Speaker
+D Speaker
+K speaker sound
+F ~
+$ENDCMP
+#
+$CMP WeMos_D1_mini
+D WeMos D1 mini
+K esp8266, wemos
+F http://www.wemos.cc/Products/d1_mini.html
+$ENDCMP
+#
+#End Doc Library

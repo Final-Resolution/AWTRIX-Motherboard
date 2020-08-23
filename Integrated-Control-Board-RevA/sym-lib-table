@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name AWTRIX-Module)(type Legacy)(uri ${KIPRJMOD}/libraries/AWTRIX-Module.lib)(options "")(descr ""))
+)
